@@ -16,7 +16,8 @@
 ## Instalación
 ```shell
 pip install -r requirements.txt
-´´´
+```
+
 
 ## Uso Api de FastAPI
 Se usa desde swagger de FastAPI.
