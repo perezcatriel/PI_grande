@@ -14,9 +14,9 @@
 - en la carpeta src están las imágenes necesarias para el markdown
 
 ## Instalación
-``shell
+```shell
 pip install -r requirements.txt
-``
+´´´
 
 ## Uso Api de FastAPI
 Se usa desde swagger de FastAPI.
